@@ -24,7 +24,7 @@ namespace Ericson.AmriAnswers.Question2
             var result = u + v;
             //assert
             result.Magnitude.ShouldBe(0);
-            result.Degree.ShouldBe(0);
+            result.Degree.ShouldBe(180);
         }
 
         [Fact]

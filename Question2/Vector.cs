@@ -30,7 +30,7 @@ namespace Ericson.AmriAnswers.Question2
             var convertToRadiant = new Func<double, double>(d => d * (Math.PI / 180.0));
             var convertToDegree = new Func<double, double>(r => r * (180.0 / Math.PI));
 
-            var degreeBetweenTwo = new Func<double, double, double>((d1, d2) =>
+            var degreeBetweenTwoLine = new Func<double, double, double>((d1, d2) =>
             {
                 //https://www.youtube.com/watch?v=ILzOxUNXuSs
                 var m1 = Math.Tan(convertToRadiant(d1));
@@ -47,14 +47,14 @@ namespace Ericson.AmriAnswers.Question2
             var c = new Func<double, double, double, double>((a, b, degree) =>
                 Math.Sqrt(Math.Pow(a, 2) + Math.Pow(b, 2) - 2 * a * b * Math.Cos(convertToRadiant(degree))));
 
-            var degreeBetween = degreeBetweenTwo(u.Degree, v.Degree);
+            var degreeBetween = degreeBetweenTwoLine(u.Degree, v.Degree);
 
             if ((int) degreeBetween == 0)
                 return new Vector
                 {
                     Magnitude = Math.Cos(convertToRadiant(u.Degree)) * u.Magnitude +
                                 Math.Cos(convertToRadiant(v.Degree)) * v.Magnitude,
-                    Degree = 0
+                    Degree = u.Degree
                 };
 
             var cResult = c(u.Magnitude, v.Magnitude, degreeBetween);
