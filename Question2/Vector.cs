@@ -18,7 +18,7 @@ namespace Ericson.AmriAnswers.Question2
             get => _degree;
             set
             {
-                if (value > 360 || value < -360) throw new ArgumentException("the value can't be more 360 degree");
+                if (value > 360 || value < -360) throw new ArgumentException("the value can't be more than 360 degree");
                 _degree = value;
             }
         }

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea59a56e-4d02-467b-9765-449e224ddab8" name="Default Changelist" comment="" />
+    <list default="true" id="ea59a56e-4d02-467b-9765-449e224ddab8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ericson.AmriAnswers/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Ericson.AmriAnswers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ericson.AmriAnswers/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,16 +36,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="C# Console" value="4" />
-          <entry key="cs" value="3531" />
+          <entry key="cs" value="3533" />
           <entry key="md" value="12" />
-          <entry key="txt" value="1363" />
+          <entry key="txt" value="1377" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="3535" />
+          <entry key="C#" value="3537" />
           <entry key="Markdown" value="12" />
-          <entry key="PLAIN_TEXT" value="1363" />
+          <entry key="PLAIN_TEXT" value="1377" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -92,34 +95,34 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Question2/Vector.Test.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="144" column="1" selection-start-line="144" selection-start-column="1" selection-end-line="144" selection-end-column="1" />
+            <state relative-caret-position="195">
+              <caret line="110" column="31" lean-forward="true" selection-start-line="110" selection-start-column="31" selection-end-line="110" selection-end-column="31" />
               <folding>
-                <marker date="1541540790949" expanded="false" signature="6:28" ph="..." />
-                <marker date="1541540790949" expanded="true" signature="69:3517" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="99:3515" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="181:614" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="257:332" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="377:450" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="675:1107" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="751:824" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="869:942" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="1186:1619" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="1262:1336" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="1381:1454" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="1675:2329" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="1698:1794" ph="/* https://www.physicsclassroom.com/class/vectors/Lesson-1/Vector-Addition ... */" />
-                <marker date="1541540790949" expanded="true" signature="1838:1913" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="1958:2034" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="2079:2155" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="2393:2919" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="2416:2512" ph="/* https://www.physicsclassroom.com/class/vectors/Lesson-1/Vector-Addition ... */" />
-                <marker date="1541540790949" expanded="true" signature="2556:2631" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="2676:2750" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="2983:3509" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="3006:3102" ph="/* https://www.physicsclassroom.com/class/vectors/Lesson-1/Vector-Addition ... */" />
-                <marker date="1541540790949" expanded="true" signature="3146:3221" ph="{...}" />
-                <marker date="1541540790949" expanded="true" signature="3266:3340" ph="{...}" />
+                <marker date="1541541394421" expanded="false" signature="6:28" ph="..." />
+                <marker date="1541541394421" expanded="true" signature="69:3489" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="99:3487" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="181:614" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="257:332" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="377:450" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="675:1107" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="751:824" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="869:942" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="1186:1619" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="1262:1336" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="1381:1454" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="1675:2329" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="1698:1794" ph="/* https://www.physicsclassroom.com/class/vectors/Lesson-1/Vector-Addition ... */" />
+                <marker date="1541541394421" expanded="true" signature="1838:1913" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="1958:2034" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="2079:2155" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="2393:2919" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="2416:2512" ph="/* https://www.physicsclassroom.com/class/vectors/Lesson-1/Vector-Addition ... */" />
+                <marker date="1541541394421" expanded="true" signature="2556:2631" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="2676:2750" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="2983:3481" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="3006:3074" ph="/* https://www.youtube.com/watch?v=8YsMNFWvgpk ... */" />
+                <marker date="1541541394421" expanded="true" signature="3118:3193" ph="{...}" />
+                <marker date="1541541394421" expanded="true" signature="3238:3312" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -131,6 +134,9 @@
     <findStrings>
       <find>magn</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05253EB3-5C8B-455F-BE5C-239377E26AB6/b9/ee0f6620/Vector.cs" root0="SKIP_HIGHLIGHTING" />
@@ -145,11 +151,11 @@
         <option value="$PROJECT_DIR$/Question1/Question1.cs" />
         <option value="$PROJECT_DIR$/Ericson.AmriAnswers.Test/VectorTest.cs" />
         <option value="$PROJECT_DIR$/Ericson.AmriAnswers.Test/UnitTest1.cs" />
-        <option value="$PROJECT_DIR$/Question2/Vector.Test.cs" />
         <option value="$PROJECT_DIR$/Question3/Answer.txt" />
         <option value="$PROJECT_DIR$/Question2/Vector.cs" />
         <option value="$PROJECT_DIR$/ReadMe.md" />
         <option value="$PROJECT_DIR$/Question1/Square.cs" />
+        <option value="$PROJECT_DIR$/Question2/Vector.Test.cs" />
       </list>
     </option>
   </component>
@@ -165,6 +171,7 @@
     <option name="width" value="1440" />
     <option name="height" value="765" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <autoscrollFromSource SolutionExplorer="true" />
@@ -260,12 +267,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541427474849</updated>
-      <workItem from="1541427477385" duration="20152000" />
+      <workItem from="1541427477385" duration="20450000" />
     </task>
+    <task id="LOCAL-00001" summary="add comments">
+      <created>1541541460722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541541460722</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20152000" />
+    <option name="totallyTimeSpent" value="20450000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -313,6 +328,10 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="add comments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -393,34 +412,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Question2/Vector.Test.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="144" column="1" selection-start-line="144" selection-start-column="1" selection-end-line="144" selection-end-column="1" />
+        <state relative-caret-position="195">
+          <caret line="110" column="31" lean-forward="true" selection-start-line="110" selection-start-column="31" selection-end-line="110" selection-end-column="31" />
           <folding>
-            <marker date="1541540790949" expanded="false" signature="6:28" ph="..." />
-            <marker date="1541540790949" expanded="true" signature="69:3517" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="99:3515" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="181:614" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="257:332" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="377:450" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="675:1107" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="751:824" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="869:942" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="1186:1619" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="1262:1336" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="1381:1454" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="1675:2329" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="1698:1794" ph="/* https://www.physicsclassroom.com/class/vectors/Lesson-1/Vector-Addition ... */" />
-            <marker date="1541540790949" expanded="true" signature="1838:1913" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="1958:2034" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="2079:2155" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="2393:2919" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="2416:2512" ph="/* https://www.physicsclassroom.com/class/vectors/Lesson-1/Vector-Addition ... */" />
-            <marker date="1541540790949" expanded="true" signature="2556:2631" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="2676:2750" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="2983:3509" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="3006:3102" ph="/* https://www.physicsclassroom.com/class/vectors/Lesson-1/Vector-Addition ... */" />
-            <marker date="1541540790949" expanded="true" signature="3146:3221" ph="{...}" />
-            <marker date="1541540790949" expanded="true" signature="3266:3340" ph="{...}" />
+            <marker date="1541541394421" expanded="false" signature="6:28" ph="..." />
+            <marker date="1541541394421" expanded="true" signature="69:3489" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="99:3487" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="181:614" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="257:332" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="377:450" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="675:1107" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="751:824" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="869:942" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="1186:1619" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="1262:1336" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="1381:1454" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="1675:2329" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="1698:1794" ph="/* https://www.physicsclassroom.com/class/vectors/Lesson-1/Vector-Addition ... */" />
+            <marker date="1541541394421" expanded="true" signature="1838:1913" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="1958:2034" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="2079:2155" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="2393:2919" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="2416:2512" ph="/* https://www.physicsclassroom.com/class/vectors/Lesson-1/Vector-Addition ... */" />
+            <marker date="1541541394421" expanded="true" signature="2556:2631" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="2676:2750" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="2983:3481" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="3006:3074" ph="/* https://www.youtube.com/watch?v=8YsMNFWvgpk ... */" />
+            <marker date="1541541394421" expanded="true" signature="3118:3193" ph="{...}" />
+            <marker date="1541541394421" expanded="true" signature="3238:3312" ph="{...}" />
           </folding>
         </state>
       </provider>
