@@ -1,0 +1,18 @@
+the question is too general to have a definitive question. 
+what kind of device is available to get the temperature? 
+what kind of screen is available to write output? tv? monitor? electronic board? glass screen?
+what kind of input is being received from the temperature device?
+what kind of information is needed to print a correct output?
+
+with respect to the above whatever answer i come up should be correct. 
+so my answer would be:
+
+"get the data(temperature) from whom owns it.
+ process and massage it. if it's not enough get more data. 
+ if it's enough pass it to whom need it
+ the device/person who need it if not reject and accept then finish
+ if device/person who need it reject try to correct the issue or terminate"  
+ 
+ 
+ the generality of this flow is based on the SOLID principle, the writer and consumer can inject their own usage and the owner of the data(temperature) doesn't care about it's usage 
+  
