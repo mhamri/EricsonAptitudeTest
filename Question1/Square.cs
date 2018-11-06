@@ -5,6 +5,7 @@ namespace Ericson.AmriAnswers.Question1
         private readonly int _side;
 
         //it's not a good way since it's against the DI but since it's not part of the requirement i leave it as it
+        // and the question isn't clear how many method it should have. what is the name of the method and so forth. so i just kept it at constructor input
         public Square(int side)
         {
             _side = side;

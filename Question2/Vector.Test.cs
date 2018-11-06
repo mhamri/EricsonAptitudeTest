@@ -127,7 +127,7 @@ namespace Ericson.AmriAnswers.Question2
         [Fact]
         public void VectorSumTriangleExample2()
         {
-            //https://www.physicsclassroom.com/class/vectors/Lesson-1/Vector-Addition
+            //https://www.youtube.com/watch?v=8YsMNFWvgpk
 
             //arrange
             var u = new Vector

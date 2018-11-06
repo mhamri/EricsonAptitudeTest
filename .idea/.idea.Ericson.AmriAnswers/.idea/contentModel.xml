@@ -8,6 +8,7 @@
     <e p="C:\Users\amrim\.Rider2018.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\amrim\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Ericson.AmriAnswers.1586277317.00" t="ExcludeRecursive" />
     <e p="C:\Users\amrim\source\repos\Ericson.AmriAnswers" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="Ericson.AmriAnswers.csproj" t="IncludeRecursive" />
       <e p="Ericson.AmriAnswers.sln" t="IncludeFlat" />
